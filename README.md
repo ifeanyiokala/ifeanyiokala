@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ifeanyiokala
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning python
+- 🌱 Python
 - 💞️ I’m looking to collaborate with anyone interested in my field 
 
 
